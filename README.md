@@ -112,10 +112,11 @@ Todas as features vem desabilitadas por padrao. Ative no menu:
 
 ## Disclaimer
 
-Este projeto e apenas para fins educacionais. O uso em jogos online pode resultar em banimento. Use por sua conta e risco.
+Este projeto e apenas para fins educacionais.
 
 ---
 
 <p align="center">
   <a href="https://github.com/0xf0000000">0xf0000000</a>
 </p>
+
